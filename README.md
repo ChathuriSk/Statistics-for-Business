@@ -2,7 +2,7 @@
 
 ## Getting to know statistical tools commonly used for data analysis in businesses 2022
 
-Objectives:
+**Objectives**:
 -	To get to know the commonly used statistical tools in today’s context. 
 -	To understand the strategies used in each of the tools to better interpret the data. 
 
@@ -32,6 +32,7 @@ It is commercial tool which is used for business intelligence and data analytics
 It was developed by IBM. It is supported by Microsoft windows and Apple Macintosh operating systems. Widely used in academics as well as researchers in various disciplines for quantitative analysis of complex data.   
 
 ### References:
+
 -	https://blog.bismart.com/en/9-best-data-analytics-tools-list-2022 
 -	https://careerfoundry.com/en/blog/data-analytics/data-analytics-tools/#sas 
 -	https://researchcommons.library.ubc.ca/introduction-to-spss-for-statistical-analysis/ 
