@@ -29,7 +29,7 @@ R integrates well with other languages and systems like C, C++, and FORTRAN. On 
 It is commercial tool which is used for business intelligence and data analytics. It was developed by SAS institute in 1960s and has evolved ever since. The main uses of SAS are profiling customers, reporting, data mining, and predictive modelling. Specifically good for enterprise market, the software is generally more robust, versatile easier for large organisations to use. But the bad about this is its costly and poor in graphical representations. Nevertheless, it offers modules for specific uses such as anti-money laundering and analytics for ‘Internet of Things’
 
 ### SPSS (Statistical Package for Social Sciences)
-It was developed by IBM. It is supported by Microsoft windows and Apple Macintosh operating systems. Widely used in academics as well as researchers in various disciplines for quantitative analysis of complex data. gfakjfgjkahfj  
+It was developed by IBM. It is supported by Microsoft windows and Apple Macintosh operating systems. Widely used in academics as well as researchers in various disciplines for quantitative analysis of complex data.
 
 ### References:
 
