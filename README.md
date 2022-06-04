@@ -2,7 +2,7 @@
 
 ## Getting to know statistical tools commonly used for data analysis in businesses 2022
 
-**Objectives**:
+**Objectives** :
 -	To get to know the commonly used statistical tools in today’s context. 
 -	To understand the strategies used in each of the tools to better interpret the data. 
 
@@ -16,7 +16,7 @@ Regardless of many tools in the field of data analytics introduced lately, ‘Ms
 Also, known, and popular for its data analytic tools in data visualisations. It allows the creation of dashboards, maps, and visualisation from data. Both free and paid versions are available. Needs expertise in coding to fully make use of this tool. Tableau facilitates connections in between databases such as Microsoft Excel or corporate data warehouses. 
 
 ### Qlik 
-Qlik incorporates several tools such as QlikSense, QlikView which are specifically for data analytics, data integration, and programming. 
+Qlik incorporates several tools such as QlikSense, QlikView which are specifically for data analytics, data integration, and programming. ..
 
 ### Python 
 Python has paved its way into data analysis in both academics and businesses. Its popularity is based on its readability and easiness to learn. 
